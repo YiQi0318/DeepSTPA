@@ -4,6 +4,8 @@ STPA for Learning-Enabled Systems: A Survey and A New Method
 
 ## Description
 
+![Image text](https://raw.githubusercontent.com/YiQi0318/DeepSTPA/main/IMG-folder/ftp.png)
+
 * The control loop of running example using DeepSTPA  
 This figure shows the control loop of running example using DeepSTPA. Each purple number denotes a component-wise control structure, 
 while the yellow numbers show the control loop inside components. 
