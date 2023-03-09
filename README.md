@@ -1,10 +1,10 @@
-# Project Title
-
-STPA for Learning-Enabled Systems: A Survey and A New Method
+# STPA for Learning-Enabled Systems: A Survey and A New Method
 
 ## Description
-
+* DeepSTPA control loop
 ![Image text](https://raw.githubusercontent.com/YiQi0318/DeepSTPA/main/IMG-folder/ftp.png)
+DeepSTPA control loop structures (grey shaded) in addition to the traditional STPA control loop (green shaded).
+The horizontal axis signifies the ML lifecycle highlighting how data is being processed, while the vertical axis signifies finegrained functionalities and development activities. The solid line signifies control action, and the dashed line represents feedback information. The boxes filled with same colour represent the same artifacts but appear in different ML lifecycle stages.
 
 * The control loop of running example using DeepSTPA  
 This figure shows the control loop of running example using DeepSTPA. Each purple number denotes a component-wise control structure, 
